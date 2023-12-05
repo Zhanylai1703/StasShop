@@ -44,7 +44,7 @@ distlib==0.3.6
 distro==1.7.0
 distro-info===1.1build1
 Django==4.2.7
-django-cors-headers==4.3.1
+django-cors-headers
 django-filter==22.1
 django-jazzmin==2.6.0
 djangorestframework==3.14.0
